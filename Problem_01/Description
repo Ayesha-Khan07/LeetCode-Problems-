@@ -1,5 +1,7 @@
-#Merge Strings Alternately
+𝐏𝐫𝐨𝐛𝐥𝐞𝐦-𝟏 
+𝐬𝐭𝐚𝐭𝐞𝐦𝐞𝐧𝐭: 𝐌𝐞𝐫𝐠𝐞 𝐒𝐭𝐫𝐢𝐧𝐠𝐬 𝐀𝐥𝐭𝐞𝐫𝐧𝐚𝐭𝐞𝐥𝐲
 
+𝐃𝐞𝐬𝐜𝐫𝐢𝐩𝐭𝐢𝐨𝐧: 
 You are given two strings word1 and word2. Merge the strings by adding letters in alternating order, starting with word1. If a string is longer than the other, append the additional letters onto the end of the merged string.
 
 Return the merged string.
